@@ -8,7 +8,7 @@ function carousel() {
           <div class='col-xl-6'>
             <h1>
               NUTRIMENTO: Trained and experienced staff, Attractive and friendly
-              environment &{' '}
+              environment{' '}
             </h1>
             <h2>
               Meeting customer needs and expectations Innovation and

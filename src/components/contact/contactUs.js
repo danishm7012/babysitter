@@ -27,11 +27,6 @@ function contactUs() {
                     <i class='far fa-compass'></i>
                     <h3>Our Address</h3>
                     <p>
-                      <span>UAE Office:</span> Park Lane Plaza, 12th Floor,
-                      Office No. 1213, Down Town, Dubai UAE. P.O. BOX 415253
-                      <br />
-                      <span>UK Office:</span> 3rd Floor, 244 Edgware Road,
-                      London W2 1DS, UK.
                       <br />
                       <span>PAK Office:</span> Office No.18, Naqi Arcade, 71-The
                       Mall Road, Lahore, Pakistan.
@@ -55,10 +50,10 @@ function contactUs() {
                     <i class='fas fa-phone-alt'></i>
                     <h3>Call Us</h3>
                     <p>
-                      <span>UAE:</span> 0333 1472568 <br />
-                      <span>UK:</span> 03027341637
+                      <span>Office 1:</span> 0333 1472568 <br />
+                      <span>Office 2:</span> 03027341637
                       <br />
-                      <span>PAK</span> 0309 6104418
+                      <span>Office 3:</span> 0309 6104418
                     </p>
                   </div>
                 </div>

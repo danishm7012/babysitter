@@ -66,22 +66,23 @@ const Footer = () => {
               <ul>
                 <li>
                   <i class='bx bx-chevron-right'></i>{' '}
-                  <a href='/'>PRO Service</a>
+                  <a href='/'>Little Rainbows</a>
                 </li>
                 <li>
                   <i class='bx bx-chevron-right'></i>{' '}
-                  <a href='/'>Banking services</a>
+                  <a href='/'>Unicorn Kids.</a>
                 </li>
                 <li>
                   <i class='bx bx-chevron-right'></i>{' '}
-                  <a href='/'>UAE Office setup</a>
-                </li>
-                <li>
-                  <i class='bx bx-chevron-right'></i> <a href='/'>Licensing</a>
+                  <a href='/'>Just for Babies.</a>
                 </li>
                 <li>
                   <i class='bx bx-chevron-right'></i>{' '}
-                  <a href='/'>Office for Rent</a>
+                  <a href='/'>Toddlers' Paradise.</a>
+                </li>
+                <li>
+                  <i class='bx bx-chevron-right'></i>{' '}
+                  <a href='/'>Nannies That Care.</a>
                 </li>
               </ul>
             </div>
@@ -89,8 +90,7 @@ const Footer = () => {
             <div class='col-lg-3 col-md-6 footer-contact'>
               <h4>Contact Us</h4>
               <p>
-                Park Lane Plaza, 12th Floor, Office No. 1213. Down Town Dubai,
-                UAE.
+                Park Lane Plaza, 12th Floor, Office No. 1213.
                 <br />
                 P.O. BOX 415253
                 <br />
@@ -102,26 +102,17 @@ const Footer = () => {
                 {'   '}
                 03027341637
                 <br />
-                <strong>
-                  <i className='fas fa-phone'></i>
-                  <i className='fab fa-whatsapp '></i>
-                </strong>
-                {'   '}
-                +971 054 775 7091
-                <br />
-                <strong>Landline:</strong> +971 4 5891171
-                <br />
                 <strong>Email:</strong> nutrimento781@gmail.com
                 <br />
               </p>
             </div>
 
             <div class='col-lg-3 col-md-6 footer-info'>
-              <h3>About PROGcc</h3>
+              <h3>About NUTRIMENTO</h3>
               <p>
                 Our Business Setup Guides give you the answers to the most
                 commonly asked questions that we are being asked on setting up
-                businesses in the UAE.
+                businesses.
               </p>
               <div class='social-links mt-3'>
                 <a
@@ -163,7 +154,7 @@ const Footer = () => {
       <div className='pt-4 text-white text-center'>
         Copyright &copy; {new Date().getFullYear()}
         <strong>
-          <span className='credits'> ProGcc. </span>
+          <span className='credits'> NUTRIMENTO. </span>
         </strong>
         All Rights Reserved.
       </div>

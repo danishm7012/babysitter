@@ -50,7 +50,7 @@ function header() {
                 </LinkContainer>
               </Link>
               <Link to='/'>
-                <LinkContainer to='/info/blogs'>
+                <LinkContainer to='/'>
                   <Nav.Link className='link active'> What's new </Nav.Link>
                 </LinkContainer>
               </Link>

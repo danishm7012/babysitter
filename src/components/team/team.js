@@ -6,18 +6,17 @@ const team = () => {
     <div id='team' class='team section section-bg'>
       <div class='container' data-aos='fade-up'>
         <div class='section-title'>
-          <h2>Team</h2>
+          <h2>STRUCTURAL BODY</h2>
           <p>
-            ProGcc helps businesses grow by assuring their marketing budget is
-            invested in the right places, managed by the right experts and
-            increasingly generates sales & profit.
+            NUTRIMENTO helps community grow by assuring their marketing budget
+            is invested in the right places, managed by the right experts.
           </p>
         </div>
 
         <div class='row'>
           <Member
-            name='Walter White'
-            designation='Chief Executive Officer'
+            name='Mr. Rana Husnain'
+            designation='Finance director'
             image='/images/team/team-1.jpg'
             facebook='/'
             instagram='/'
@@ -25,8 +24,8 @@ const team = () => {
             linkedIn='/'
           />
           <Member
-            name='Sarah Jhonson'
-            designation='Product Manager'
+            name='Ms. Fatima Sohail'
+            designation='Managing Coordinator'
             image='/images/team/team-2.jpg'
             facebook='/'
             instagram='/'
@@ -34,18 +33,18 @@ const team = () => {
             linkedIn='/'
           />
           <Member
-            name='William Anderson'
-            designation='CTO'
-            image='/images/team/team-3.jpg'
+            name='Ms. Aleema Riaz'
+            designation='HR Coordinator'
+            image='/images/team/team-4.jpg'
             facebook='/'
             instagram='/'
             twitter='/'
             linkedIn='/'
           />
           <Member
-            name='Amanda Jepson'
-            designation='Accountant'
-            image='/images/team/team-4.jpg'
+            name='Ms. Arzu Butt'
+            designation='Marketing Coordinator'
+            image='/images/team/team-2.jpg'
             facebook='/'
             instagram='/'
             twitter='/'

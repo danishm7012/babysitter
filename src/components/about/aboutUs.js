@@ -12,11 +12,7 @@ function aboutUs() {
           high quality care and education.
         </p>
       </div>
-      <Image
-        src='https://www.jervisbaytourism.com.au/wp-content/uploads/2019/08/44497883_1845359445513775_5921241514280747008_n-1.jpg'
-        height='auto'
-        width='100%'
-      />
+      <Image src='/images/editaboutpic.png' height='auto' width='100%' />
       <Container>
         <Row>
           <Col>
