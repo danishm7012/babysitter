@@ -1,0 +1,31 @@
+#services {
+  margin-bottom: 1rem;
+  margin-top: 1rem;
+}
+.f-services {
+  display: flex;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  height: auto;
+  margin-top: 1rem;
+  color: #212121;
+}
+.f-services:hover {
+  background-color: #ff8d8f;
+  color: #fff;
+  border-radius: 10px;
+}
+.service-icon {
+  margin-left: 1rem;
+  margin-top: 1rem;
+  font-size: 2rem;
+  height: 10vh;
+  width: 10vh;
+}
+
+.f-services p {
+  margin-left: 1rem;
+  margin-top: 1rem;
+  font-weight: normal;
+  font-size: 1rem;
+}
